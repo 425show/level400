@@ -1,9 +1,9 @@
-# Join Caleb Baker (Principal Product Manager) as he demystifies all things Conditional Access at a 400 level for the audience!
+# Join Caleb Baker as he demystifies all things Conditional Access at a 400 level for the audience!
 
 - Air date: 2023-02-16, 11a ET
 - Watch: https://www.youtube.com/watch?v=HylR3JLUtMs&t=3s&ab_channel=TheMicrosoft425Show
 
-Caleb Baker, Principal Product Manager from the Conditional Access feature team 
+Caleb Baker, Principal Product Manager from the Conditional Access feature team: 
 https://www.linkedin.com/in/baker-caleb/
  
 ## Links from Caleb:
