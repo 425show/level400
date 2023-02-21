@@ -1,5 +1,6 @@
 Join Caleb Baker (Principal Product Manager) as he demystifies all things Conditional Access at a 400 level for the audience!
-
+<br><i>Streamed live on 2/16/2023</i>
+<br><br>
 <b>Caleb Baker</b>
 <br>LinkedIn: https://www.linkedin.com/in/baker-caleb/
 <br>
