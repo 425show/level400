@@ -1,4 +1,4 @@
-# Join Caleb Baker as he demystifies all things Conditional Access at a 400 level for the audience!
+# Join Caleb Baker as he demystifies all things Conditional Access!
 
 - Air date: 2023-02-16, 11a ET
 - Watch: https://www.youtube.com/watch?v=HylR3JLUtMs&t=3s&ab_channel=TheMicrosoft425Show
