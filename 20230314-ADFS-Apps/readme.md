@@ -1,12 +1,11 @@
 # ADFS App Migration Deep Dive with David Gregory and Mohit Kumar!
 
 - Air date: 2023-03-14, 11a ET
-- Watch: https://www.youtube.com/watch?v=ZPbKiaJXT6Q&ab_channel=TheMicrosoft425Show
+- Watch on [YouTube](https://www.youtube.com/watch?v=ZPbKiaJXT6Q&ab_channel=TheMicrosoft425Show)
 
-Mohit Kumar, Product Manager, Identity team
-
-David Gregory, Principal Product Manager, Identity team:
-https://www.linkedin.com/in/david-gregory-02263178/
+Presented by
+- Mohit Kumar, Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/mohit1513/)
+- David Gregory, Principal Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/david-gregory-02263178/) | [Twitter](https://twitter.com/2buckdave)
 
 In this episode, we dig into details around complex app scenarios when migrating from ADFS to Azure AD, including multi-instance apps, claims transformations and SAML debugging.
  
