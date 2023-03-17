@@ -4,6 +4,7 @@
 - Watch: https://www.youtube.com/watch?v=ZPbKiaJXT6Q&ab_channel=TheMicrosoft425Show
 
 Mohit Kumar, Product Manager, Identity team
+
 David Gregory, Principal Product Manager, Identity team:
 https://www.linkedin.com/in/david-gregory-02263178/
 
@@ -19,5 +20,9 @@ In this episode, we dig into details around complex app scenarios when migrating
 Thank you for watching the 425 Show!
 
 Feedback? 425show@microsoft.com
+
 Discord: https://aka.ms/425show/discord/join
+
 Upcoming events: https://aka.ms/425show/cal
+
+Connect with us on LinkedIn: https://aka.ms/425show/linkedin

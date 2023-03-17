@@ -18,4 +18,9 @@ Tom on [Twitter](https://twitter.com/milt0r) and Github [@tommoser](https://gith
 Thank you for watching the 425 Show!
 
 Feedback? 425show@microsoft.com
+
 Discord: https://aka.ms/425show/discord/join
+
+Upcoming events: https://aka.ms/425show/cal
+
+Connect with us on LinkedIn: https://aka.ms/425show/linkedin
