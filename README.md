@@ -1,5 +1,7 @@
 # Level up :arrow_up: on the 425 Show!
 
+2023-03-23 [Hello For Business Cloud Kerberos Trust with Charity Shelbourne and JJ Streicher-Bremer!](20230323-H4B-Cloud-Kerberos-Trust/)
+
 2023-03-14 [ADFS App Migration Deep Dive with David Gregory and Mohit Kumar!](20230314-ADFS-Apps/)
 
 2023-02-21 [Microsoft Information Protection with Tom Moser](20230221-AIP-with-Tom-Moser/)
