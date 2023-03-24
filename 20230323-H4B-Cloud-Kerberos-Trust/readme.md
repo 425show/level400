@@ -1,4 +1,4 @@
-# Hello For Business Cloud Keberos Trust with Charity and JJ!
+# Hello For Business Cloud Kerberos Trust with Charity and JJ!
 
 - Air date: 2023-03-23, 11a ET
 - Watch on [YouTube](https://www.youtube.com/watch?v=M1WUv7BPfV0&list=PLbxcPujaBt6ncSwymeWyQCEvKAcGw65PR&index=4)
